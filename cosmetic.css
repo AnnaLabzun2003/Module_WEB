@@ -1,0 +1,90 @@
+.header-menu__element1{
+    color: #ffffff
+}
+
+.header-menu__element2{
+    color: #ffffff
+}
+
+.header-menu__element3{
+    color: #ffffff
+}
+
+.header-menu__element4{
+    color: #ffffff
+}
+
+.central__element_1{
+    color: #ffffff
+}
+
+.central__element_4{
+    color: #ffffff
+}
+
+.left-menu__element1{
+    color: #ffffff
+
+}
+
+.left-menu__element2{
+    color: #ffffff
+
+}
+
+.left-menu__element3{
+    color: #ffffff
+
+}
+
+.add-info__text{
+    color: #8FB28B
+
+}
+
+.footer__elem_1_2{
+    color: #ECDCC2
+
+}
+
+.footer__elem_2_2{
+    color: #ECDCC2
+    
+}
+
+.header-menu__element1:hover{
+    color: #8FB28B
+}
+.header-menu__element2:hover{
+    color: #8FB28B
+}
+.header-menu__element3:hover{
+    color: #8FB28B
+}
+.header-menu__element4:hover{
+    color: #8FB28B
+}
+
+
+.left-menu__element1,
+.left-menu__element2,
+.left-menu__element3 {
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.left-menu__element1:hover,
+.left-menu__element2:hover,
+.left-menu__element3:hover {
+  transform: scale(1.1); /* Збільшення масштабу картинки на 10% при наведенні */
+}
+
+.add-info__text {
+    font-size: 28px; 
+    transition: font-size 0.2s; 
+  }
+  
+  .add-info__text:hover {
+    font-size: 34px;
+  }
+  

@@ -1,0 +1,160 @@
+.logo img{
+    width: 170px;
+    height: 203px;
+}
+
+
+.header-menu__element1{
+    font-family: 'Jim Nightshade', sans-serif;
+    font-size: 36px;
+
+}
+
+.header-menu__element2{
+    font-family: 'Jim Nightshade', sans-serif;
+    font-size: 36px;
+}
+
+.header-menu__element3{
+    font-family: 'Jim Nightshade', sans-serif;
+    font-size: 36px;
+    align-self: center;
+}
+
+.header-menu__element4{
+    font-family: 'Jim Nightshade', sans-serif;
+    font-size: 36px;
+}
+
+.left-menu__element1 img{
+    width: 63px;
+    height: 63px;
+    
+}
+
+.left-menu__element2 img{
+    width: 57px;
+    height: 57px;
+}
+
+.left-menu__element3 img{
+    width: 60px;
+    height: 60px;
+}
+
+.add-info__text{
+    font-family: 'Jim Nightshade', sans-serif;
+    font-size: 30px;
+}
+
+
+
+.central__element{
+    flex: 0 1 50%;
+}
+
+@media (max-width: 768px) {
+    .central__element {
+      flex: 0 1 100%;
+    }
+  }
+
+.central__element_1{
+    font-family: 'Jim Nightshade', sans-serif;
+    font-size: 28px;
+    
+    flex-grow: 1;
+    flex-shrink: 1;
+
+}
+
+.central__element_4{
+    font-family: 'Jim Nightshade', sans-serif;
+    font-size: 28px;
+    
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.central__element_2 {
+    
+    flex-grow: 0;
+    flex-shrink: 1;
+}
+
+.central__element_3 {
+    
+    flex-grow: 0;
+    flex-shrink: 1;
+}
+
+.central__element_2 img{
+    width: 318px;
+    height: 255px;
+    
+}
+
+.central__element_3 img{
+    width: 237px;
+    height: 229px;
+   
+}
+
+.footer__elem {
+    flex: 1;
+    align-items:center;
+}
+
+
+.footer__elem_2 {
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-end;
+    flex-basis: 300px;
+    align-items:center;
+   
+
+}
+
+.footer__elem_2_1 {
+    text-align: right;
+}
+
+.footer__elem_1_1 {
+    flex-basis: 80px;
+    
+}
+
+.footer__elem_2_2 {
+    font-size: 28px;
+    flex-basis: 80px;
+}
+
+.footer__elem_1_2 {
+    font-size: 28px;
+}
+
+
+.footer__elem_1{
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:center;
+    text-align: right;
+
+}
+
+.footer__elem_1_1 img{
+    width: 30px;
+    height: 23px;
+}
+
+.footer__elem_2_1 img{
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+  
